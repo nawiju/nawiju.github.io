@@ -1,11 +1,3 @@
-+++
-title = 'Test'
-date = 2021-09-28T13:17:26-07:00
-draft = false
-[_build]
-  list = 'never'
-+++
-
 C++
 ===
 
