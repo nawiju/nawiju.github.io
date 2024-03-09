@@ -20,8 +20,8 @@ Here are some resources for learning Fortran:
 
 [Fortran Tutorial - Online Tutorials Library](https://www.tutorialspoint.com/fortran/index.htm)
 
-[Learn — Fortran Programming Language](https://fortran-lang.org/en/learn/)
-
 [PDF A Fortran Tutorial - University of Utah](https://www.inscc.utah.edu/~krueger/6150/Fortran77_tutorial.pdf)
 
-[Learning resources: Fortran | Princeton Research Computing](https://researchcomputing.princeton.edu/education/external-online-resources/fortran)
+[FORTRAN Tutorial - Free Guide to Programming Fortran 90/95](https://www.fortrantutorial.com/)
+
+[Hello world — Fortran Programming Language](https://fortran-lang.org/en/learn/quickstart/hello_world/)

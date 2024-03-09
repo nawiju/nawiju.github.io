@@ -18,10 +18,10 @@ Here are some resources for learning Scratch:
 
 [Scratch - Videos](https://scratch.mit.edu/help/videos/)
 
-[Scratch - Imagine, Program, Share](https://scratch.mit.edu/?tutorial=getStarted)
+[Scratch - Explore](https://scratch.mit.edu/explore/projects/tutorials/)
 
-[Scratch Beginner's Guide | Scratch Basics (Ep1) - YouTube](https://www.youtube.com/watch?v=zN_Zos7Fxac)
-
-[The Complete Guide to Scratch Coding for Eager Beginners](https://gamedevacademy.org/scratch-tutorial/)
+[Scratch Beginner's Guide  Scratch Basics (Ep1) - YouTube](https://www.youtube.com/watch?v=zN_Zos7Fxac)
 
 [Scratch Coding A complete overview for Beginners - YouTube](https://www.youtube.com/watch?v=K0T7zuxEIgw)
+
+[Scratch Basics - Episode 1: Introduction to the Scratch Working ...](https://www.youtube.com/watch?v=NqMd44Oi2l4)

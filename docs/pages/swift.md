@@ -18,10 +18,10 @@ Here are some resources for learning Swift:
 
 [Swift.org - Getting Started](https://www.swift.org/getting-started/)
 
-[A Swift Tour | Documentation](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/)
-
-[The Swift Handbook - Learn Swift for Beginners - freeCodeCamp.org](https://www.freecodecamp.org/news/the-swift-handbook/)
+[A Swift Tour  Documentation](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/)
 
 [Swift - Apple Developer](https://developer.apple.com/swift/)
 
-[Learn Swift Programming](https://www.programiz.com/swift-programming)
+[The Basics - Swift.org - Documentation](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/)
+
+[Swift - Resources - Apple Developer](https://developer.apple.com/swift/resources/)

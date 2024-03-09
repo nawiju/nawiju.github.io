@@ -20,8 +20,8 @@ Here are some resources for learning MATLAB:
 
 [MATLAB Tutorial - Online Courses and eBooks Library](https://www.tutorialspoint.com/matlab/index.htm)
 
-[MATLAB Onramp | Self-Paced Online Courses - MATLAB & Simulink - MathWorks](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted)
+[MATLAB Onramp  Self-Paced Online Courses - MATLAB & Simulink - MathWorks](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted)
 
-[Getting Started - MATLAB - MATLAB & Simulink - MathWorks](https://www.mathworks.com/products/matlab/getting-started.html)
+[Self-Paced Online Courses - MATLAB & Simulink](https://matlabacademy.mathworks.com/)
 
-[MATLAB Fundamentals | Self-Paced Online Courses - MATLAB & Simulink](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe)
+[MATLAB Fundamentals  Self-Paced Online Courses - MATLAB & Simulink](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe)

@@ -7,7 +7,7 @@ Here are some resources for learning Assembly language:
 
 [Assembly Programming Tutorial - Online Tutorials Library](https://www.tutorialspoint.com/assembly_programming/index.htm)
 
-[Introduction to Assembly Language | Baeldung on Computer Science](https://www.baeldung.com/cs/assembly-language)
+[Introduction to Assembly Language  Baeldung on Computer Science](https://www.baeldung.com/cs/assembly-language)
 
 [Assembly Language Tutorial => Getting started with Assembly Language](https://riptutorial.com/assembly)
 

@@ -18,10 +18,10 @@ Here are some resources for learning Go:
 
 [Tutorials - The Go Programming Language](https://go.dev/doc/tutorial/)
 
+[Tutorial: Get started with Go - The Go Programming Language](https://go.dev/doc/tutorial/getting-started)
+
 [Go Tutorial - W3Schools](https://www.w3schools.com/go/index.php)
 
 [Get Started - The Go Programming Language](https://go.dev/learn/)
 
 [The Go Handbook - Learn Golang for Beginners - freeCodeCamp.org](https://www.freecodecamp.org/news/go-beginners-handbook/)
-
-[The Go Programming Language - YouTube](https://www.youtube.com/@golang)

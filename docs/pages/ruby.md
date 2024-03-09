@@ -24,4 +24,4 @@ Here are some resources for learning Ruby:
 
 [Documentation - Ruby Programming Language](https://www.ruby-lang.org/en/documentation/)
 
-[Learn Ruby | Codecademy](https://www.codecademy.com/learn/learn-ruby)
+[Learn Ruby  Codecademy](https://www.codecademy.com/learn/learn-ruby)

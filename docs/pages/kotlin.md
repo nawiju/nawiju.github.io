@@ -17,12 +17,12 @@ Source: [https://en.wikipedia.org/wiki/Kotlin_(programming_language)](https://en
 
 Here are some resources for learning Kotlin:
 
-[Get started with Kotlin | Kotlin Documentation](https://kotlinlang.org/docs/getting-started.html)
+[Get started with Kotlin  Kotlin Documentation](https://kotlinlang.org/docs/getting-started.html)
 
 [Kotlin Tutorial - W3Schools](https://www.w3schools.com/kotlin/index.php)
 
-[Learn Kotlin for Android | Android Developers](https://developer.android.com/kotlin/campaign/learn)
+[Learn the Kotlin programming language  Android Developers](https://developer.android.com/kotlin/learn)
 
-[Learn the Kotlin programming language | Android Developers](https://developer.android.com/kotlin/learn)
+[Learn Kotlin for Android  Android Developers](https://developer.android.com/kotlin/campaign/learn)
 
 [Learn Kotlin With JetBrains Academy](https://www.jetbrains.com/pages/academy/kotlin/)

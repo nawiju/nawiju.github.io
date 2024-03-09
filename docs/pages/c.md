@@ -18,10 +18,10 @@ Here are some resources for learning C:
 
 [C Tutorial - W3Schools](https://www.w3schools.com/c/index.php)
 
-[C Tutorial - Learn C Programming Language - GeeksforGeeks](https://www.geeksforgeeks.org/c-programming-language/)
-
 [Learn C Programming](https://www.programiz.com/c-programming)
+
+[C Tutorial - Learn C Programming Language - GeeksforGeeks](https://www.geeksforgeeks.org/c-programming-language/)
 
 [C Tutorial](https://www.tutorialspoint.com/cprogramming/index.htm)
 
-[Learn C | Codecademy](https://www.codecademy.com/learn/paths/c)
+[Learn C  Codecademy](https://www.codecademy.com/learn/paths/c)

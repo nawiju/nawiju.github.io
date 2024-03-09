@@ -20,8 +20,8 @@ Here are some resources for learning JavaScript:
 
 [The Modern JavaScript Tutorial](https://javascript.info/)
 
-[JavaScript basics - Learn web development | MDN - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+[JavaScript basics - Learn web development  MDN - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+
+[JavaScript Introduction - W3Schools](https://www.w3schools.com/js/js_intro.asp)
 
 [JavaScript Tutorial](https://www.javascripttutorial.net/)
-
-[JavaScript | MDN - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/javascript)

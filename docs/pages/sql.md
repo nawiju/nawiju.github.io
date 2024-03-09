@@ -22,6 +22,6 @@ Here are some resources for learning SQL:
 
 [SQL Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/sql-tutorial/)
 
-[Learn SQL | Codecademy](https://www.codecademy.com/learn/learn-sql)
+[Learn SQL  Codecademy](https://www.codecademy.com/learn/learn-sql)
 
-[Learn SQL: SQL Tutorial for Beginners - Programiz](https://www.programiz.com/sql)
+[Intro to SQL: Querying and managing data  Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
