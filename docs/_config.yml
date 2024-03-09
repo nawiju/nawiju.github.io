@@ -1,0 +1,9 @@
+title: nawiju's Blog
+email: njunkiert@gmail.com
+description: ""
+baseurl: ""
+url: ""
+guthub_username: nawiju
+theme: minima
+plugins:
+  - jekyll-feed:
