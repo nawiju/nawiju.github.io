@@ -1,3 +1,4 @@
+
 Java
 ====
 
@@ -21,6 +22,6 @@ Here are some resources for learning Java:
 
 [The Java™ Tutorials - Oracle Help Center](https://docs.oracle.com/javase/tutorial/)
 
-[Learn Java | Codecademy](https://www.codecademy.com/learn/learn-java)
+[Java Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/java-tutorial/)
 
-[Learn Java Programming](https://www.programiz.com/java-programming)
+[Java Tutorial | Learn Java Programming - GeeksforGeeks](https://www.geeksforgeeks.org/java/)

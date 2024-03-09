@@ -1,3 +1,4 @@
+
 Kotlin
 ======
 
@@ -18,10 +19,10 @@ Here are some resources for learning Kotlin:
 
 [Get started with Kotlin | Kotlin Documentation](https://kotlinlang.org/docs/getting-started.html)
 
-[Learn Kotlin for Android | Android Developers](https://developer.android.com/kotlin/campaign/learn)
-
 [Kotlin Tutorial - W3Schools](https://www.w3schools.com/kotlin/index.php)
+
+[Learn Kotlin for Android | Android Developers](https://developer.android.com/kotlin/campaign/learn)
 
 [Learn the Kotlin programming language | Android Developers](https://developer.android.com/kotlin/learn)
 
-[Kotlin Tutorial - Kotlin Programming Language - GeeksforGeeks](https://www.geeksforgeeks.org/kotlin-programming-language/)
+[Learn Kotlin With JetBrains Academy](https://www.jetbrains.com/pages/academy/kotlin/)

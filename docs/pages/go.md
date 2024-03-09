@@ -1,3 +1,4 @@
+
 Go
 ==
 
@@ -19,8 +20,8 @@ Here are some resources for learning Go:
 
 [Go Tutorial - W3Schools](https://www.w3schools.com/go/index.php)
 
-[The Go Handbook - Learn Golang for Beginners - freeCodeCamp.org](https://www.freecodecamp.org/news/go-beginners-handbook/)
-
 [Get Started - The Go Programming Language](https://go.dev/learn/)
 
-[Golang Tutorial for Beginners | Full Go Course - YouTube](https://www.youtube.com/watch?v=yyUHQIec83I)
+[The Go Handbook - Learn Golang for Beginners - freeCodeCamp.org](https://www.freecodecamp.org/news/go-beginners-handbook/)
+
+[The Go Programming Language - YouTube](https://www.youtube.com/@golang)

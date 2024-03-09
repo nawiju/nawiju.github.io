@@ -1,3 +1,4 @@
+
 C#
 ==
 
@@ -19,8 +20,8 @@ Here are some resources for learning C#:
 
 [C# Tutorial (C Sharp) - W3Schools](https://www.w3schools.com/cs/index.php)
 
-[Learn C# | Free tutorials, courses, videos, and more | .NET](https://dotnet.microsoft.com/en-us/learn/csharp)
-
 [C# docs - get started, tutorials, reference. | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/csharp/)
+
+[Learn C# | Free tutorials, courses, videos, and more | .NET](https://dotnet.microsoft.com/en-us/learn/csharp)
 
 [C# Tutorials: Learn C# Step-by-Step - TutorialsTeacher.com](https://www.tutorialsteacher.com/csharp)

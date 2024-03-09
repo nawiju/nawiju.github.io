@@ -1,3 +1,4 @@
+
 C++
 ===
 
@@ -21,6 +22,6 @@ Here are some resources for learning C++:
 
 [Learn C++ - Skill up with our free tutorials - LearnCpp.com](https://www.learncpp.com/)
 
-[C++ Tutorial | Learn C++ Programming - GeeksforGeeks](https://www.geeksforgeeks.org/cpp-tutorial/)
+[Learn C++ | Codecademy](https://www.codecademy.com/learn/learn-c-plus-plus)
 
 [Learn C++ Programming](https://www.programiz.com/cpp-programming)

@@ -1,3 +1,4 @@
+
 PHP
 ===
 
@@ -10,7 +11,7 @@ The standard PHP interpreter, powered by the Zend Engine, is free software relea
 
 The PHP language has evolved without a written formal specification or standard, with the original implementation acting as the de facto standard that other implementations aimed to follow.
 
-W3Techs reports that as of 2024, PHP is used by 76.6% of all websites whose programming language could be determined, and thereof 58.8% use PHP 7 which is outdated and known to be insecure, in addition most users of 8.0 is most used of the 8.x versions, and it's also out of support, meaning vast majority of PHP users use outdated versions, and of well over half of all websites, PHP-using or not (whose programming language could be determined) are insecure.  
+W3Techs reports that as of 2024, PHP is used by 76.6% of all websites whose programming language could be determined, and 58.8% thereof use PHP 7 which is outdated and known to be insecure. Additionally, the most used version of 8.x, 8.0, is no longer supported, meaning the vast majority of PHP users utilize outdated versions, and well over half of all websites, PHP-using or not (whose programming language could be determined) are insecure.  
 Source: [https://en.wikipedia.org/wiki/PHP](https://en.wikipedia.org/wiki/PHP)
 
 Here are some resources for learning PHP:
@@ -21,6 +22,6 @@ Here are some resources for learning PHP:
 
 [The PHP Handbook - Learn PHP for Beginners - freeCodeCamp.org](https://www.freecodecamp.org/news/the-php-handbook/)
 
-[PHP: A simple tutorial - Manual](https://www.php.net/manual/en/tutorial.php)
-
 [PHP 7 Tutorial - An Ultimate Guide for Beginners](https://www.tutorialrepublic.com/php-tutorial/)
+
+[Learn PHP with the Top 25 PHP Tutorials: Resources, Websites, Courses](https://stackify.com/learn-php-tutorials/)

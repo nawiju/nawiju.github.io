@@ -1,3 +1,4 @@
+
 Ruby
 ====
 
@@ -17,10 +18,10 @@ Here are some resources for learning Ruby:
 
 [Ruby in Twenty Minutes - Ruby Programming Language](https://www.ruby-lang.org/en/documentation/quickstart/)
 
-[The Definitive Ruby Tutorial For Complete Beginners - RubyGuides](https://www.rubyguides.com/ruby-tutorial/)
-
 [Ruby Tutorial](https://www.tutorialspoint.com/ruby/index.htm)
 
-[Learn Ruby | Codecademy](https://www.codecademy.com/learn/learn-ruby)
+[The Definitive Ruby Tutorial For Complete Beginners - RubyGuides](https://www.rubyguides.com/ruby-tutorial/)
 
 [Documentation - Ruby Programming Language](https://www.ruby-lang.org/en/documentation/)
+
+[Learn Ruby | Codecademy](https://www.codecademy.com/learn/learn-ruby)

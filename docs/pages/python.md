@@ -1,3 +1,4 @@
+
 Python
 ======
 
@@ -19,8 +20,8 @@ Here are some resources for learning Python:
 
 [The Python Tutorial — Python 3.12.2 documentation](https://docs.python.org/3/tutorial/index.html)
 
-[Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/)
-
 [Python For Beginners | Python.org](https://www.python.org/about/gettingstarted/)
+
+[Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/)
 
 [Learn Python Programming](https://www.programiz.com/python-programming)

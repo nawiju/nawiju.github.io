@@ -1,3 +1,4 @@
+
 Swift
 =====
 
@@ -19,8 +20,8 @@ Here are some resources for learning Swift:
 
 [A Swift Tour | Documentation](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/)
 
-[Swift - Apple Developer](https://developer.apple.com/swift/)
-
 [The Swift Handbook - Learn Swift for Beginners - freeCodeCamp.org](https://www.freecodecamp.org/news/the-swift-handbook/)
 
-[The Definitive Swift Tutorial for Beginners (2021) : CodeWithChris](https://codewithchris.com/swift-tutorial-complete/)
+[Swift - Apple Developer](https://developer.apple.com/swift/)
+
+[Learn Swift Programming](https://www.programiz.com/swift-programming)

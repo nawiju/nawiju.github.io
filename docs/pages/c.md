@@ -1,3 +1,4 @@
+
 C
 =
 
@@ -21,6 +22,6 @@ Here are some resources for learning C:
 
 [Learn C Programming](https://www.programiz.com/c-programming)
 
-[Learn C | Codecademy](https://www.codecademy.com/learn/paths/c)
+[C Tutorial](https://www.tutorialspoint.com/cprogramming/index.htm)
 
-[C Programming Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=KJgsSFOSQv0)
+[Learn C | Codecademy](https://www.codecademy.com/learn/paths/c)

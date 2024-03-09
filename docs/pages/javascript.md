@@ -1,3 +1,4 @@
+
 JavaScript
 ==========
 
@@ -21,6 +22,6 @@ Here are some resources for learning JavaScript:
 
 [JavaScript basics - Learn web development | MDN - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
-[Learn JavaScript | Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
+[JavaScript Tutorial](https://www.javascripttutorial.net/)
 
-[Learn JavaScript Programming](https://www.programiz.com/javascript)
+[JavaScript | MDN - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/javascript)

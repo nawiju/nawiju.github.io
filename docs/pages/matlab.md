@@ -1,3 +1,4 @@
+
 MATLAB
 ======
 
@@ -17,10 +18,10 @@ Here are some resources for learning MATLAB:
 
 [Learn with MATLAB and Simulink Tutorials - MATLAB & Simulink - MathWorks](https://www.mathworks.com/support/learn-with-matlab-tutorials.html)
 
-[Getting Started - MATLAB - MATLAB & Simulink - MathWorks](https://www.mathworks.com/products/matlab/getting-started.html)
-
-[Self-Paced Online Courses - MATLAB & Simulink](https://matlabacademy.mathworks.com/)
+[MATLAB Tutorial - Online Courses and eBooks Library](https://www.tutorialspoint.com/matlab/index.htm)
 
 [MATLAB Onramp | Self-Paced Online Courses - MATLAB & Simulink - MathWorks](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted)
+
+[Getting Started - MATLAB - MATLAB & Simulink - MathWorks](https://www.mathworks.com/products/matlab/getting-started.html)
 
 [MATLAB Fundamentals | Self-Paced Online Courses - MATLAB & Simulink](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe)

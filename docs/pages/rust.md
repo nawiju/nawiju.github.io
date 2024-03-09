@@ -1,3 +1,4 @@
+
 Rust
 ====
 
@@ -10,17 +11,17 @@ Software developer Graydon Hoare created Rust as a personal project while workin
 
 Rust has been noted for its rapid adoption, and has been studied in programming language theory research.
 
-Rust grew out of a personal project begun in 2006 by Mozilla Research employee Graydon Hoare. Mozilla began sponsoring the project in 2009 as a part of the ongoing development of an experimental browser engine called Servo, which was officially announced by Mozilla in 2010. During this time, the Rust logo was developed based on a bicycle gear. Around the same year, work shifted from the initial compiler written in OCaml to a self-hosting compiler based on LLVM written in Rust. The new Rust compiler successfully compiled itself in 2011.  
+Rust grew out of a personal project begun in 2006 by Mozilla Research employee Graydon Hoare. Mozilla began sponsoring the project in 2009 as a part of the ongoing development of an experimental browser engine called Servo, which was officially announced by Mozilla in 2010. During this time, the Rust logo was developed based on a bicycle chainring. Around the same year, work shifted from the initial compiler written in OCaml to a self-hosting compiler based on LLVM written in Rust. The new Rust compiler successfully compiled itself in 2011.  
 Source: [https://en.wikipedia.org/wiki/Rust_(programming_language)](https://en.wikipedia.org/wiki/Rust_(programming_language))
 
 Here are some resources for learning Rust:
 
 [Learn Rust - Rust Programming Language](https://www.rust-lang.org/learn)
 
-[Introduction - Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/)
+[Take your first steps with Rust - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/)
+
+[PDF The Rust Programming Language - Stanford University](https://www.scs.stanford.edu/~zyedidia/docs/rust/rust_book.pdf)
 
 [Learn Rust Programming - For Beginners](https://www.programiz.com/rust)
 
-[Learn Rust Programming Course - Interactive Rust Language Tutorial on ...](https://www.freecodecamp.org/news/rust-in-replit/)
-
-[PDF The Rust Programming Language - Stanford University](https://www.scs.stanford.edu/~zyedidia/docs/rust/rust_book.pdf)
+[Welcome to Comprehensive Rust - Comprehensive Rust - GitHub](https://google.github.io/comprehensive-rust/)
