@@ -18,10 +18,10 @@ Here are some resources for learning COBOL:
 
 [COBOL Tutorial](https://www.tutorialspoint.com/cobol/index.htm)
 
-[COBOL Tutorials - IBM Developer](https://developer.ibm.com/languages/cobol/tutorials/)
-
 [COBOL Tutorial - IBMMainframer](https://www.ibmmainframer.com/cobol-tutorial/)
 
-[IBM COBOL Basics  Coursera](https://www.coursera.org/learn/ibm-cobol-basics)
+[COBOL - Tutorials - IBM Developer](https://developer.ibm.com/languages/cobol/tutorials/)
 
 [COBOL Tutorial - Javatpoint](https://www.javatpoint.com/cobol)
+
+[IBM COBOL Core  Coursera](https://www.coursera.org/learn/ibm-cobol-core)

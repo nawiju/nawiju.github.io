@@ -20,8 +20,8 @@ Here are some resources for learning PHP:
 
 [PHP Tutorial](https://www.phptutorial.net/)
 
+[PHP Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/php-tutorial/)
+
 [PHP 7 Tutorial - An Ultimate Guide for Beginners](https://www.tutorialrepublic.com/php-tutorial/)
 
 [The PHP Handbook - Learn PHP for Beginners - freeCodeCamp.org](https://www.freecodecamp.org/news/the-php-handbook/)
-
-[27 Best Tutorials to Learn PHP (Free and Paid Resources) - Kinsta](https://kinsta.com/blog/php-tutorials/)

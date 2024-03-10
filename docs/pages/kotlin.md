@@ -21,8 +21,8 @@ Here are some resources for learning Kotlin:
 
 [Kotlin Tutorial - W3Schools](https://www.w3schools.com/kotlin/index.php)
 
-[Learn the Kotlin programming language  Android Developers](https://developer.android.com/kotlin/learn)
-
 [Learn Kotlin for Android  Android Developers](https://developer.android.com/kotlin/campaign/learn)
+
+[Learn the Kotlin programming language  Android Developers](https://developer.android.com/kotlin/learn)
 
 [Learn Kotlin With JetBrains Academy](https://www.jetbrains.com/pages/academy/kotlin/)

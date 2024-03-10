@@ -16,9 +16,9 @@ Source: [https://en.wikipedia.org/wiki/C_Sharp_(programming_language)](https://e
 
 Here are some resources for learning C#:
 
-[Introduction to C# - interactive tutorials - C#  Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/)
-
 [C# Tutorial (C Sharp) - W3Schools](https://www.w3schools.com/cs/index.php)
+
+[Introduction to C# - interactive tutorials - C#  Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/)
 
 [Learn C#  Free tutorials, courses, videos, and more  .NET](https://dotnet.microsoft.com/en-us/learn/csharp)
 

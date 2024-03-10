@@ -18,7 +18,7 @@ Here are some resources for learning Rust:
 
 [Learn Rust - Rust Programming Language](https://www.rust-lang.org/learn)
 
-[Take your first steps with Rust - Training  Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/)
+[Introduction - Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/)
 
 [PDF The Rust Programming Language - Stanford University](https://www.scs.stanford.edu/~zyedidia/docs/rust/rust_book.pdf)
 

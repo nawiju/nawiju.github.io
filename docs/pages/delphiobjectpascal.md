@@ -18,7 +18,7 @@ Here are some resources for learning Delphi/Object Pascal:
 
 [Learn Delphi](https://learndelphi.org/)
 
-[Free Object Pascal Handbook by Marco Cantu - Embarcadero](https://www.embarcadero.com/products/delphi/object-pascal-handbook)
+[Delphi's Object Pascal Style Guide - RAD Studio](https://docwiki.embarcadero.com/RADStudio/Sydney/en/Delphi’s_Object_Pascal_Style_Guide)
 
 [Object Pascal Handbook Delphi 11](https://lp.embarcadero.com/ObjectPascalHandbookD11)
 

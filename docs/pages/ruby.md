@@ -18,10 +18,10 @@ Here are some resources for learning Ruby:
 
 [Ruby in Twenty Minutes - Ruby Programming Language](https://www.ruby-lang.org/en/documentation/quickstart/)
 
-[Ruby Tutorial](https://www.tutorialspoint.com/ruby/index.htm)
-
 [The Definitive Ruby Tutorial For Complete Beginners - RubyGuides](https://www.rubyguides.com/ruby-tutorial/)
 
-[Documentation - Ruby Programming Language](https://www.ruby-lang.org/en/documentation/)
+[Ruby Tutorial](https://www.tutorialspoint.com/ruby/index.htm)
 
 [Learn Ruby  Codecademy](https://www.codecademy.com/learn/learn-ruby)
+
+[Ruby Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/ruby-tutorial/)

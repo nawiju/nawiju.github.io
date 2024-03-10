@@ -22,6 +22,6 @@ Here are some resources for learning JavaScript:
 
 [JavaScript basics - Learn web development  MDN - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
-[JavaScript Introduction - W3Schools](https://www.w3schools.com/js/js_intro.asp)
+[JavaScript  MDN - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/javascript)
 
-[JavaScript Tutorial](https://www.javascripttutorial.net/)
+[What is JavaScript? - Learn web development  MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
